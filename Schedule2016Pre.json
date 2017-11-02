@@ -1,0 +1,4466 @@
+{
+    "id": "659d2bd0-c43e-4bb0-8503-9d576911d029",
+    "year": 2016,
+    "type": "PRE",
+    "name": "PRE",
+    "weeks": [{
+        "id": "60bfeef5-51db-4e2f-bb85-377a6386ac6d",
+        "sequence": 0,
+        "title": "1",
+        "games": [{
+            "id": "a1a343b7-0631-4c04-bd88-dad5c89f51bc",
+            "status": "closed",
+            "reference": "56836",
+            "number": 1,
+            "scheduled": "2016-08-08T00:00:00+00:00",
+            "attendance": 0,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Temp:  F, Wind:   mph",
+            "venue": {
+                "id": "de94507b-cb7b-4684-a0ff-fad0131847e5",
+                "name": "Tom Benson Hall of Fame Stadium",
+                "city": "Canton",
+                "state": "OH",
+                "country": "USA",
+                "zip": "44708",
+                "address": "2121 George Halas Drive NW",
+                "capacity": 22375,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+                "name": "Indianapolis Colts",
+                "alias": "IND",
+                "game_number": 1
+            },
+            "away": {
+                "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+                "name": "Green Bay Packers",
+                "alias": "GB",
+                "game_number": 1
+            },
+            "broadcast": {
+                "network": "ESPN",
+                "satellite": "206",
+                "internet": "WatchESPN"
+            },
+            "scoring": {
+                "home_points": 0,
+                "away_points": 0,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "b1fdc2a4-1b23-41fa-aa45-29b871c16b11",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }]
+    }, {
+        "id": "1d810a06-3f3b-4865-a0ba-f28091dd8d6f",
+        "sequence": 1,
+        "title": "2",
+        "games": [{
+            "id": "0a72d9f2-1ec4-4f8b-bf77-29bb6453423f",
+            "status": "closed",
+            "reference": "56846",
+            "number": 11,
+            "scheduled": "2016-08-12T23:30:00+00:00",
+            "attendance": 50737,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Cloudy Temp: 86 F, Humidity: 69%, Wind: SW 8 mph",
+            "venue": {
+                "id": "b87a1595-d3c8-48ea-8a53-0aab6378a64a",
+                "name": "Paul Brown Stadium",
+                "city": "Cincinnati",
+                "state": "OH",
+                "country": "USA",
+                "zip": "45202",
+                "address": "One Paul Brown Stadium",
+                "capacity": 65535,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "ad4ae08f-d808-42d5-a1e6-e9bc4e34d123",
+                "name": "Cincinnati Bengals",
+                "alias": "CIN",
+                "game_number": 1
+            },
+            "away": {
+                "id": "33405046-04ee-4058-a950-d606f8c30852",
+                "name": "Minnesota Vikings",
+                "alias": "MIN",
+                "game_number": 1
+            },
+            "scoring": {
+                "home_points": 16,
+                "away_points": 17,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "99729909-560b-48e8-a629-1298500fdb96",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "55fbab05-b0ff-4908-8f62-1e8de2b50d24",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 10
+                }, {
+                    "period_type": "quarter",
+                    "id": "8b4c3369-e5e3-40e3-82da-b96ca5f96295",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "90df0db8-a8ae-4290-b6d3-05fe6690b7f5",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 9,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "10a1b171-83f2-4ff8-9cde-b833d297311b",
+            "status": "closed",
+            "reference": "56849",
+            "number": 14,
+            "scheduled": "2016-08-14T00:00:00+00:00",
+            "attendance": 60597,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Cloudy Temp: 83 F, Humidity: 84%, Wind: W 1 mph",
+            "venue": {
+                "id": "5295c1b7-c85c-49cb-9569-1707c65324e5",
+                "name": "Nissan Stadium",
+                "city": "Nashville",
+                "state": "TN",
+                "country": "USA",
+                "zip": "37213",
+                "address": "One Titans Way",
+                "capacity": 69143,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+                "name": "Tennessee Titans",
+                "alias": "TEN",
+                "game_number": 1
+            },
+            "away": {
+                "id": "9dbb9060-ba0f-4920-829e-16d4d9246b5d",
+                "name": "San Diego Chargers",
+                "alias": "SD",
+                "game_number": 1
+            },
+            "scoring": {
+                "home_points": 27,
+                "away_points": 10,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "c6c41564-b30e-4404-a4ec-71b5cfdc8429",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 10,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "6453ac2a-66ea-4d76-9894-accdfc139058",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "f57a5acd-a2ce-4cb5-89b8-0fa25dc7f65b",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "c7df5270-8b72-404b-8a37-d66018d00939",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 10,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "18964701-9136-4073-8239-01ebd0f878a5",
+            "status": "closed",
+            "reference": "56851",
+            "number": 16,
+            "scheduled": "2016-08-11T23:00:00+00:00",
+            "attendance": 69596,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 91 F, Humidity: 59%, Wind: S 11 mph",
+            "venue": {
+                "id": "4fa8c29c-6626-464c-8540-314ed7535e1b",
+                "name": "Lincoln Financial Field",
+                "city": "Philadelphia",
+                "state": "PA",
+                "country": "USA",
+                "zip": "19148",
+                "address": "1020 Pattison Avenue",
+                "capacity": 68532,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+                "name": "Philadelphia Eagles",
+                "alias": "PHI",
+                "game_number": 1
+            },
+            "away": {
+                "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+                "name": "Tampa Bay Buccaneers",
+                "alias": "TB",
+                "game_number": 1
+            },
+            "scoring": {
+                "home_points": 17,
+                "away_points": 9,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "ac1638c0-deb5-47a9-943b-2e96ffb3a277",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 14,
+                    "away_points": 6
+                }, {
+                    "period_type": "quarter",
+                    "id": "0fe244de-7f58-444f-bdac-62cbea077998",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "d9969e6f-2cc5-4ce5-9e7d-15665d2365e0",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "dfbcd1ec-6c4f-4c28-8cb4-9787cd31f50e",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 3,
+                    "away_points": 3
+                }]
+            }
+        }, {
+            "id": "1f4996b7-3951-41b4-9ddb-a26d17161de7",
+            "status": "closed",
+            "reference": "56844",
+            "number": 9,
+            "scheduled": "2016-08-11T23:30:00+00:00",
+            "attendance": 78160,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Cloudy Temp: 94 F, Humidity: 48%, Wind: SW 15 mph",
+            "venue": {
+                "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+                "name": "MetLife Stadium",
+                "city": "East Rutherford",
+                "state": "NJ",
+                "country": "USA",
+                "zip": "07073",
+                "address": "One MetLife Stadium Drive",
+                "capacity": 82500,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+                "name": "New York Jets",
+                "alias": "NYJ",
+                "game_number": 1
+            },
+            "away": {
+                "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+                "name": "Jacksonville Jaguars",
+                "alias": "JAC",
+                "game_number": 1
+            },
+            "broadcast": {
+                "network": "CBS"
+            },
+            "scoring": {
+                "home_points": 17,
+                "away_points": 13,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "0cef1c1d-e9ae-4dfb-9fd5-73a1c7cb603c",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 10
+                }, {
+                    "period_type": "quarter",
+                    "id": "681de288-48f7-4aeb-8b27-2e09bbc6d51b",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 14,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "ffcb19ef-75b6-40bf-bc27-e92b1b07809a",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "446ab48a-9133-40a0-9a62-55740ba1f038",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "30fba042-9c84-43ff-850d-06574ac05ab4",
+            "status": "closed",
+            "reference": "56852",
+            "number": 17,
+            "scheduled": "2016-08-11T23:00:00+00:00",
+            "attendance": 65340,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Indoor Temp:  F, Wind:   mph",
+            "venue": {
+                "id": "216de6bf-bce0-409a-a9e7-90db8df1f7b9",
+                "name": "Georgia Dome",
+                "city": "Atlanta",
+                "state": "GA",
+                "country": "USA",
+                "zip": "30313",
+                "address": "One Georgia Dome Drive Northwest",
+                "capacity": 74228,
+                "surface": "artificial",
+                "roof_type": "dome"
+            },
+            "home": {
+                "id": "e6aa13a4-0055-48a9-bc41-be28dc106929",
+                "name": "Atlanta Falcons",
+                "alias": "ATL",
+                "game_number": 1
+            },
+            "away": {
+                "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+                "name": "Washington Redskins",
+                "alias": "WAS",
+                "game_number": 1
+            },
+            "scoring": {
+                "home_points": 23,
+                "away_points": 17,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "68d0726b-9ae4-4f01-8924-da3ffdea4939",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "1a0fe6bd-2734-4d3b-aa21-444aaeea4da9",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 13,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "3eccf4d6-8b51-43dd-8e70-9072bafb7272",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 10,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "43c1beba-aba3-4b72-ab67-126830b9efee",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 7
+                }]
+            }
+        }, {
+            "id": "39577d54-bdb6-4c71-8fd2-ee2420916f49",
+            "status": "closed",
+            "reference": "56839",
+            "number": 4,
+            "scheduled": "2016-08-13T00:00:00+00:00",
+            "attendance": 74261,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Temp: 73 F, Humidity: 87%, Wind: NE 8 mph",
+            "venue": {
+                "id": "5a60dd3a-302c-41c6-ab0f-dd335c1103c2",
+                "name": "Lambeau Field",
+                "city": "Green Bay",
+                "state": "WI",
+                "country": "USA",
+                "zip": "54304",
+                "address": "1265 Lombardi Avenue",
+                "capacity": 80750,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+                "name": "Green Bay Packers",
+                "alias": "GB",
+                "game_number": 2
+            },
+            "away": {
+                "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+                "name": "Cleveland Browns",
+                "alias": "CLE",
+                "game_number": 1
+            },
+            "scoring": {
+                "home_points": 17,
+                "away_points": 11,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "86e69928-de96-4164-8e40-b49e42b4f9cc",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 3,
+                    "away_points": 2
+                }, {
+                    "period_type": "quarter",
+                    "id": "69f5344a-d025-46ea-ba0d-1d2cd1e6fcaa",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "784feac0-f142-4913-970b-7cabdfc863b1",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 6
+                }, {
+                    "period_type": "quarter",
+                    "id": "ababd957-6516-4ca3-8eff-f558ff9f3a47",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 4,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "4023152d-2136-40e4-8719-ac23e8af4728",
+            "status": "closed",
+            "reference": "56837",
+            "number": 2,
+            "scheduled": "2016-08-14T00:00:00+00:00",
+            "attendance": 89140,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 79 F, Humidity: 57%, Wind: WSW 8 mph",
+            "venue": {
+                "id": "4de1fcde-7c65-4145-a874-3753bdd584b7",
+                "name": "Los Angeles Memorial Coliseum",
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "USA",
+                "zip": "90037",
+                "address": "3911 South Figueroa Street",
+                "capacity": 93607,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+                "name": "Los Angeles Rams",
+                "alias": "LA",
+                "game_number": 1
+            },
+            "away": {
+                "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+                "name": "Dallas Cowboys",
+                "alias": "DAL",
+                "game_number": 1
+            },
+            "broadcast": {
+                "network": "ESPN",
+                "satellite": "206",
+                "internet": "WatchESPN"
+            },
+            "scoring": {
+                "home_points": 28,
+                "away_points": 24,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "0cb6d3a7-e975-4caa-8b08-6c7d299c55b3",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 14
+                }, {
+                    "period_type": "quarter",
+                    "id": "820955a4-6738-473f-bf75-d4a1ce5a3a91",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 10
+                }, {
+                    "period_type": "quarter",
+                    "id": "62074ac4-bdab-46d7-b006-0de4806df9bb",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "db6fd486-01cd-4093-841b-818cba329136",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 14,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "4c96878f-921c-414b-9fcd-5c90669ed89c",
+            "status": "closed",
+            "reference": "56838",
+            "number": 3,
+            "scheduled": "2016-08-11T23:30:00+00:00",
+            "attendance": 70682,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Party Cloudy Temp: 94 F, Humidity: 45%, Wind: South 12 mph",
+            "venue": {
+                "id": "d54faae0-0314-484f-8604-9d8dd08e1149",
+                "name": "M&T Bank Stadium",
+                "city": "Baltimore",
+                "state": "MD",
+                "country": "USA",
+                "zip": "21230",
+                "address": "1101 Russell Street",
+                "capacity": 71008,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+                "name": "Baltimore Ravens",
+                "alias": "BAL",
+                "game_number": 1
+            },
+            "away": {
+                "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+                "name": "Carolina Panthers",
+                "alias": "CAR",
+                "game_number": 1
+            },
+            "scoring": {
+                "home_points": 22,
+                "away_points": 19,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "2c57c49f-6736-4f55-ad15-a7e00e569917",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 10
+                }, {
+                    "period_type": "quarter",
+                    "id": "78eb4d2f-eba1-41e5-9f32-9fc1a98927f4",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 14,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "ee328bf5-51e0-463d-b632-0a8375a0f850",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 8,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "6cc5dc40-6e61-463f-b7f4-4f7ec5641eac",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 3
+                }]
+            }
+        }, {
+            "id": "828e5592-fb83-40ba-931c-3e35f622156e",
+            "status": "closed",
+            "reference": "56843",
+            "number": 8,
+            "scheduled": "2016-08-13T23:00:00+00:00",
+            "attendance": 65159,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "T-Storms Temp: 84 F, Humidity: 67%, Wind: SE 10-15 mph",
+            "venue": {
+                "id": "e9e0828e-37fc-4238-a317-49037577dd55",
+                "name": "New Era Field",
+                "city": "Orchard Park",
+                "state": "NY",
+                "country": "USA",
+                "zip": "14127",
+                "address": "One Bills Drive",
+                "capacity": 73079,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+                "name": "Buffalo Bills",
+                "alias": "BUF",
+                "game_number": 1
+            },
+            "away": {
+                "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+                "name": "Indianapolis Colts",
+                "alias": "IND",
+                "game_number": 2
+            },
+            "scoring": {
+                "home_points": 18,
+                "away_points": 19,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "555905db-4e3b-4be7-b577-6c0d57316926",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 9,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "b7286c1d-5abe-441a-a4d7-02ccb0f88512",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 9
+                }, {
+                    "period_type": "quarter",
+                    "id": "68d60dfe-f4a3-40e0-8aef-ed6a7f34c026",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "12da25c9-aaaa-420f-ad55-ab0629658669",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 6,
+                    "away_points": 10
+                }]
+            }
+        }, {
+            "id": "8a799cda-9ccd-4501-bb87-d1d6ee2d6ad5",
+            "status": "closed",
+            "reference": "56841",
+            "number": 6,
+            "scheduled": "2016-08-12T23:00:00+00:00",
+            "attendance": 44148,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Partly Cloudy Temp: 82 F, Humidity: 71%, Wind: From SW 3 mph",
+            "venue": {
+                "id": "7349a2e6-0ac9-410b-8bd2-ca58c9f7aa34",
+                "name": "Heinz Field",
+                "city": "Pittsburgh",
+                "state": "PA",
+                "country": "USA",
+                "zip": "15212",
+                "address": "100 Art Rooney Avenue",
+                "capacity": 65050,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+                "name": "Pittsburgh Steelers",
+                "alias": "PIT",
+                "game_number": 1
+            },
+            "away": {
+                "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+                "name": "Detroit Lions",
+                "alias": "DET",
+                "game_number": 1
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 17,
+                "away_points": 30,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "4777d7a7-a292-4817-8955-c3b7645a5527",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "b70a2aaa-2fb0-45cc-bdcf-3efa9bedf5c3",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 14,
+                    "away_points": 13
+                }, {
+                    "period_type": "quarter",
+                    "id": "edd18c37-dc3c-47e4-a579-f79ccc44cbf8",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "afe795e1-dd25-4468-9eab-aa39de39a91b",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 3,
+                    "away_points": 14
+                }]
+            }
+        }, {
+            "id": "983393f4-4336-4f80-9c7c-0a653ab81328",
+            "status": "closed",
+            "reference": "56848",
+            "number": 13,
+            "scheduled": "2016-08-13T02:00:00+00:00",
+            "attendance": 64583,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "N/A Temp:  F, Wind:   mph",
+            "venue": {
+                "id": "f8e4d2ab-53f9-4e9f-8c4a-9bc278094a84",
+                "name": "University of Phoenix Stadium",
+                "city": "Glendale",
+                "state": "AZ",
+                "country": "USA",
+                "zip": "85305",
+                "address": "One Cardinals Drive",
+                "capacity": 63400,
+                "surface": "turf",
+                "roof_type": "retractable_dome"
+            },
+            "home": {
+                "id": "de760528-1dc0-416a-a978-b510d20692ff",
+                "name": "Arizona Cardinals",
+                "alias": "ARI",
+                "game_number": 1
+            },
+            "away": {
+                "id": "1c1cec48-6352-4556-b789-35304c1a6ae1",
+                "name": "Oakland Raiders",
+                "alias": "OAK",
+                "game_number": 1
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 10,
+                "away_points": 31,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "03627dbf-a05b-48e5-8126-92a0938109b8",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 3,
+                    "away_points": 17
+                }, {
+                    "period_type": "quarter",
+                    "id": "0a7da0ad-eee2-4a58-91e0-22277418247c",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "5d02df5a-3fac-4b4d-9809-e6ad42db4a08",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "bfb32b8c-cd35-435e-b1d7-92ab0b152266",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 7
+                }]
+            }
+        }, {
+            "id": "d0813f5a-78d3-4169-a196-592f579ca294",
+            "status": "closed",
+            "reference": "56842",
+            "number": 7,
+            "scheduled": "2016-08-14T23:00:00+00:00",
+            "attendance": 70178,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 84 F, Humidity: 35%, Wind: wnw 9 mph",
+            "venue": {
+                "id": "24c71dbf-6469-46f1-8165-22005c295c8f",
+                "name": "Levi's Stadium",
+                "city": "Santa Clara",
+                "state": "CA",
+                "country": "USA",
+                "zip": "95054",
+                "address": "4900 Marie P DeBartolo Way",
+                "capacity": 68500,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+                "name": "San Francisco 49ers",
+                "alias": "SF",
+                "game_number": 1
+            },
+            "away": {
+                "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+                "name": "Houston Texans",
+                "alias": "HOU",
+                "game_number": 1
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 13,
+                "away_points": 24,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "7ca00142-e971-4276-b2b8-6b3c8092794c",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 10,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "a152dbf3-3524-4c2d-a20e-b5e968244eec",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 3,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "97150aad-a5ba-45fa-9748-fffc6f68eab8",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 10
+                }, {
+                    "period_type": "quarter",
+                    "id": "a2105283-f0ff-4716-9872-11a0c0df3468",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 7
+                }]
+            }
+        }, {
+            "id": "d1179b86-bbde-4159-b0b0-ee39c8020397",
+            "status": "closed",
+            "reference": "56845",
+            "number": 10,
+            "scheduled": "2016-08-12T23:00:00+00:00",
+            "attendance": 73575,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Mostly Cloudy Temp: 76 F, Humidity: 85%, Wind: NNW 5 mph",
+            "venue": {
+                "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+                "name": "MetLife Stadium",
+                "city": "East Rutherford",
+                "state": "NJ",
+                "country": "USA",
+                "zip": "07073",
+                "address": "One MetLife Stadium Drive",
+                "capacity": 82500,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+                "name": "New York Giants",
+                "alias": "NYG",
+                "game_number": 1
+            },
+            "away": {
+                "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+                "name": "Miami Dolphins",
+                "alias": "MIA",
+                "game_number": 1
+            },
+            "scoring": {
+                "home_points": 10,
+                "away_points": 27,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "baba7582-a56d-482c-83ae-993e3d69188d",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 10,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "e3fb8a02-ccca-470e-9b13-9f85bf483c87",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 17
+                }, {
+                    "period_type": "quarter",
+                    "id": "e08a37f7-d3ff-41a8-b87a-40ec292fe8cc",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "7b72e15f-b135-4b35-8ece-a3635160942f",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 7
+                }]
+            }
+        }, {
+            "id": "eb1ed4d0-8ebd-4082-bc7b-bc1006bce3f5",
+            "status": "closed",
+            "reference": "56847",
+            "number": 12,
+            "scheduled": "2016-08-11T23:30:00+00:00",
+            "attendance": 66829,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Hazy, hot and humid Temp: 84 F, Humidity: 71%, Wind: SW 9 mph",
+            "venue": {
+                "id": "e43310b1-cb82-4df9-8be5-e9b39637031b",
+                "name": "Gillette Stadium",
+                "city": "Foxborough",
+                "state": "MA",
+                "country": "USA",
+                "zip": "02035",
+                "address": "One Patriot Place",
+                "capacity": 68756,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+                "name": "New England Patriots",
+                "alias": "NE",
+                "game_number": 1
+            },
+            "away": {
+                "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+                "name": "New Orleans Saints",
+                "alias": "NO",
+                "game_number": 1
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 34,
+                "away_points": 22,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "c1631926-89a0-43ef-81bf-7c36ee55acf0",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 8,
+                    "away_points": 8
+                }, {
+                    "period_type": "quarter",
+                    "id": "9e1b7d89-1bda-47d3-bc96-9f23650eaebb",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 9,
+                    "away_points": 8
+                }, {
+                    "period_type": "quarter",
+                    "id": "345369bf-424b-42c2-96e8-971590c1a8e1",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "1fd953c9-7464-49da-a4cc-8cbe574192c5",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 10,
+                    "away_points": 6
+                }]
+            }
+        }, {
+            "id": "f33243cd-cce1-4e97-a130-be953f39ed48",
+            "status": "closed",
+            "reference": "56840",
+            "number": 5,
+            "scheduled": "2016-08-12T00:00:00+00:00",
+            "attendance": 61862,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Partly Cloudy, Chance of Rain 80% Temp: 88 F, Humidity: 59%, Wind: WSW 10 mph",
+            "venue": {
+                "id": "d7866605-5ac6-4b3a-90e8-760cc5a26b75",
+                "name": "Soldier Field",
+                "city": "Chicago",
+                "state": "IL",
+                "country": "USA",
+                "zip": "60605",
+                "address": "1410 South Museum Campus Drive",
+                "capacity": 61500,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+                "name": "Chicago Bears",
+                "alias": "CHI",
+                "game_number": 1
+            },
+            "away": {
+                "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+                "name": "Denver Broncos",
+                "alias": "DEN",
+                "game_number": 1
+            },
+            "scoring": {
+                "home_points": 0,
+                "away_points": 22,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "9fd96bef-fb46-48e1-b263-bd47c67561cc",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "612486c8-1705-4074-857a-3a1e2db340cb",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 13
+                }, {
+                    "period_type": "quarter",
+                    "id": "c008b1a5-edb2-4165-9992-6ab2add48c5e",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 2
+                }, {
+                    "period_type": "quarter",
+                    "id": "c9d23100-7d61-4eb9-a7c4-801071be71a5",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "fcdc53bc-66ac-4c42-8df9-ad379a757838",
+            "status": "closed",
+            "reference": "56850",
+            "number": 15,
+            "scheduled": "2016-08-13T20:30:00+00:00",
+            "attendance": 69816,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 87 F, Humidity: 46%, Wind: North 9 mph",
+            "venue": {
+                "id": "2ec4c411-dac2-403d-b091-6b6aa4a0a914",
+                "name": "Arrowhead Stadium",
+                "city": "Kansas City",
+                "state": "MO",
+                "country": "USA",
+                "zip": "64129",
+                "address": "One Arrowhead Drive",
+                "capacity": 79451,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+                "name": "Kansas City Chiefs",
+                "alias": "KC",
+                "game_number": 1
+            },
+            "away": {
+                "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+                "name": "Seattle Seahawks",
+                "alias": "SEA",
+                "game_number": 1
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 16,
+                "away_points": 17,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "e857d88e-600d-4c7d-815a-874db900f0f6",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "c26b5321-baa6-4640-aa6d-588fdded3d6b",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 6,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "dce9ff26-b972-4528-a72e-a60ce96101f8",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "1181fdbe-e997-4bf3-b16e-af7f4134c858",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 11
+                }]
+            }
+        }]
+    }, {
+        "id": "79300bc5-2fc5-489a-9d4f-ef641e6f5885",
+        "sequence": 2,
+        "title": "3",
+        "games": [{
+            "id": "128607b4-f05d-4654-85a3-b5540f6520e2",
+            "status": "closed",
+            "reference": "56854",
+            "number": 19,
+            "scheduled": "2016-08-19T00:00:00+00:00",
+            "attendance": 58327,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 79 F, Humidity: 62%, Wind: NE 6 mph",
+            "venue": {
+                "id": "90c38d91-3774-4f5d-82ca-1c806828219f",
+                "name": "FirstEnergy Stadium",
+                "city": "Cleveland",
+                "state": "OH",
+                "country": "USA",
+                "zip": "44114",
+                "address": "100 Alfred Lerner Way",
+                "capacity": 71516,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+                "name": "Cleveland Browns",
+                "alias": "CLE",
+                "game_number": 2
+            },
+            "away": {
+                "id": "e6aa13a4-0055-48a9-bc41-be28dc106929",
+                "name": "Atlanta Falcons",
+                "alias": "ATL",
+                "game_number": 2
+            },
+            "scoring": {
+                "home_points": 13,
+                "away_points": 24,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "8d6a2e0d-8a48-45e3-8b33-faea9cbcbf2d",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "0e2fa561-0607-4fad-b7f1-7202379bca42",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 6,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "5bd1bf57-9d21-4ee3-b6f5-ecaa03fd0a7d",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "46258ba9-9901-469e-a89a-19bb63864069",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 7
+                }]
+            }
+        }, {
+            "id": "28410633-f7dd-466d-af1e-91eb77a8a9cf",
+            "status": "closed",
+            "reference": "56861",
+            "number": 26,
+            "scheduled": "2016-08-19T02:00:00+00:00",
+            "attendance": 68469,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "Suny Temp: 83 F, Humidity: 43%, Wind: NW 7 mph",
+            "venue": {
+                "id": "c6b9e5df-c9e4-434c-b3e6-83928f11cbda",
+                "name": "CenturyLink Field",
+                "city": "Seattle",
+                "state": "WA",
+                "country": "USA",
+                "zip": "98134",
+                "address": "800 Occidental Avenue South",
+                "capacity": 67000,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+                "name": "Seattle Seahawks",
+                "alias": "SEA",
+                "game_number": 2
+            },
+            "away": {
+                "id": "33405046-04ee-4058-a950-d606f8c30852",
+                "name": "Minnesota Vikings",
+                "alias": "MIN",
+                "game_number": 2
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 11,
+                "away_points": 18,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "cbdf3369-91ed-4d96-9fe2-056cd5a5a2e0",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "99bb61e5-746c-4713-8a15-6e2639366cd9",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 11
+                }, {
+                    "period_type": "quarter",
+                    "id": "4a48e88e-590d-46ad-91f0-8ad309664bf5",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "86d42026-038c-4176-a9f4-45edf5929658",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 11,
+                    "away_points": 7
+                }]
+            }
+        }, {
+            "id": "2d77a8ef-9436-44b0-9c09-ce47d9659954",
+            "status": "closed",
+            "reference": "56862",
+            "number": 27,
+            "scheduled": "2016-08-21T00:00:00+00:00",
+            "attendance": 71517,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Partly Cloudy Temp: 88 F, Humidity: 66%, Wind: SSE 7 mph",
+            "venue": {
+                "id": "6a72e5ca-33d0-40af-8e6b-b32a4d3d9346",
+                "name": "NRG Stadium",
+                "city": "Houston",
+                "state": "TX",
+                "country": "USA",
+                "zip": "77054",
+                "address": "One Reliant Park",
+                "capacity": 71054,
+                "surface": "artificial",
+                "roof_type": "retractable_dome"
+            },
+            "home": {
+                "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+                "name": "Houston Texans",
+                "alias": "HOU",
+                "game_number": 2
+            },
+            "away": {
+                "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+                "name": "New Orleans Saints",
+                "alias": "NO",
+                "game_number": 2
+            },
+            "scoring": {
+                "home_points": 16,
+                "away_points": 9,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "4118e1da-10c1-4e69-9ed3-07fe24830bd1",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "a724c835-4888-42f9-a953-b0d08c2830aa",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 6,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "d71d5bbc-a2e2-402f-86d6-2ee56b2d2f8f",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "b4d72a59-d5fb-4400-941c-42c195edba31",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 3,
+                    "away_points": 6
+                }]
+            }
+        }, {
+            "id": "36234831-9e83-4def-9b36-4eaa5df4bb76",
+            "status": "closed",
+            "reference": "56855",
+            "number": 20,
+            "scheduled": "2016-08-20T23:00:00+00:00",
+            "attendance": 65327,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Cloudy Temp: 74 F, Humidity: 90%, Wind: SSW 13 mph",
+            "venue": {
+                "id": "6ed18563-53e0-46c2-a91d-12d73a16456d",
+                "name": "Lucas Oil Stadium",
+                "city": "Indianapolis",
+                "state": "IN",
+                "country": "USA",
+                "zip": "46225",
+                "address": "500 South Capitol Avenue",
+                "capacity": 67000,
+                "surface": "artificial",
+                "roof_type": "retractable_dome"
+            },
+            "home": {
+                "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+                "name": "Indianapolis Colts",
+                "alias": "IND",
+                "game_number": 3
+            },
+            "away": {
+                "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+                "name": "Baltimore Ravens",
+                "alias": "BAL",
+                "game_number": 2
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 18,
+                "away_points": 19,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "24b47c2e-276d-49bd-b94c-b76df4c16289",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 3,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "731107e7-f43a-445e-b1b5-d2a9c24f03e8",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 3,
+                    "away_points": 14
+                }, {
+                    "period_type": "quarter",
+                    "id": "5ad9e49d-33d0-4a8c-8b97-f97c92427482",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 6,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "1bf76370-4d83-4bec-bdb8-a8cb2da8551a",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 6,
+                    "away_points": 5
+                }]
+            }
+        }, {
+            "id": "3c7209a1-0ad2-4289-953f-cc3d3e6044ac",
+            "status": "closed",
+            "reference": "56853",
+            "number": 18,
+            "scheduled": "2016-08-20T01:00:00+00:00",
+            "attendance": 46524,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 75 F, Humidity: 63%, Wind: WNW 9 mph",
+            "venue": {
+                "id": "7ca47702-8951-45be-a4f5-3e7d78f8f399",
+                "name": "Qualcomm Stadium",
+                "city": "San Diego",
+                "state": "CA",
+                "country": "USA",
+                "zip": "92108",
+                "address": "9449 Friars Road",
+                "capacity": 70561,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "9dbb9060-ba0f-4920-829e-16d4d9246b5d",
+                "name": "San Diego Chargers",
+                "alias": "SD",
+                "game_number": 2
+            },
+            "away": {
+                "id": "de760528-1dc0-416a-a978-b510d20692ff",
+                "name": "Arizona Cardinals",
+                "alias": "ARI",
+                "game_number": 2
+            },
+            "scoring": {
+                "home_points": 19,
+                "away_points": 3,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "eeb195de-4a2b-431c-acc4-370f1e792859",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 10,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "e5851a7c-168f-44ec-a573-8ecae1e5fb34",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 6,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "99422601-3a93-415a-9449-e91cf57d6296",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "484d3c41-497f-4e5c-83a9-6dd51ae44992",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 3
+                }]
+            }
+        }, {
+            "id": "3db73665-b4c6-4323-b57e-8510f40f0333",
+            "status": "closed",
+            "reference": "56868",
+            "number": 33,
+            "scheduled": "2016-08-20T23:30:00+00:00",
+            "attendance": 59782,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Temp: 94 F, Humidity: 41%, Wind: SW 8 mph",
+            "venue": {
+                "id": "4c5c036d-dd3d-4183-b595-71a43a97560f",
+                "name": "EverBank Field",
+                "city": "Jacksonville",
+                "state": "FL",
+                "country": "USA",
+                "zip": "32202",
+                "address": "One EverBank Field Drive",
+                "capacity": 67246,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+                "name": "Jacksonville Jaguars",
+                "alias": "JAC",
+                "game_number": 2
+            },
+            "away": {
+                "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+                "name": "Tampa Bay Buccaneers",
+                "alias": "TB",
+                "game_number": 2
+            },
+            "scoring": {
+                "home_points": 21,
+                "away_points": 27,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "777ef6c9-f0d5-4b7e-9c54-b7ab7d1b6076",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "ed92ec5e-0c15-49c8-9c22-c75f2253dc63",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 17
+                }, {
+                    "period_type": "quarter",
+                    "id": "42b9f7e8-df58-4b72-a63e-d5f0794dd692",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "1d6ae85b-603d-4c94-af3f-6c13c32d6e6f",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 7,
+                    "away_points": 10
+                }]
+            }
+        }, {
+            "id": "5d424ba5-ff92-445e-91ca-f27886e98839",
+            "status": "closed",
+            "reference": "56857",
+            "number": 22,
+            "scheduled": "2016-08-19T00:00:00+00:00",
+            "attendance": 66809,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Clear and warm Temp: 78 F, Humidity: 59%, Wind: SW 4 mph",
+            "venue": {
+                "id": "e43310b1-cb82-4df9-8be5-e9b39637031b",
+                "name": "Gillette Stadium",
+                "city": "Foxborough",
+                "state": "MA",
+                "country": "USA",
+                "zip": "02035",
+                "address": "One Patriot Place",
+                "capacity": 68756,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+                "name": "New England Patriots",
+                "alias": "NE",
+                "game_number": 2
+            },
+            "away": {
+                "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+                "name": "Chicago Bears",
+                "alias": "CHI",
+                "game_number": 2
+            },
+            "scoring": {
+                "home_points": 23,
+                "away_points": 22,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "98b7d3ef-a25b-4827-b0e4-73555c90e9f1",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 11
+                }, {
+                    "period_type": "quarter",
+                    "id": "82be2114-2515-4936-8783-34fc4867e9d2",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 17,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "407369de-28d7-4544-b1d4-aec7bb179000",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 6,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "dcac11f1-603e-4c70-b7c2-c72480efa4d6",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 11
+                }]
+            }
+        }, {
+            "id": "5fe17426-85c9-4b19-b786-c5d40f7416f3",
+            "status": "closed",
+            "reference": "56864",
+            "number": 29,
+            "scheduled": "2016-08-19T23:30:00+00:00",
+            "attendance": 53437,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 84 F, Humidity: 47%, Wind:  Calm mph",
+            "venue": {
+                "id": "7c11bb2d-4a53-4842-b842-0f1c63ed78e9",
+                "name": "FedExField",
+                "city": "Landover",
+                "state": "MD",
+                "country": "USA",
+                "zip": "20785",
+                "address": "1600 FedEx Way",
+                "capacity": 83000,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+                "name": "Washington Redskins",
+                "alias": "WAS",
+                "game_number": 2
+            },
+            "away": {
+                "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+                "name": "New York Jets",
+                "alias": "NYJ",
+                "game_number": 2
+            },
+            "broadcast": {
+                "network": "CBS"
+            },
+            "scoring": {
+                "home_points": 22,
+                "away_points": 18,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "a9a478ec-4885-489f-99a9-9418db46b1e8",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "cc70ae07-cc94-4c5a-8c07-367ea6f5dd9e",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 14,
+                    "away_points": 2
+                }, {
+                    "period_type": "quarter",
+                    "id": "b44967dd-1a4f-4af4-a7e8-eae053b41696",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "c6c66f89-2625-4b18-bc6d-816540fa2867",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 8,
+                    "away_points": 9
+                }]
+            }
+        }, {
+            "id": "70e3e8cc-5316-4945-a9f5-27877f081287",
+            "status": "closed",
+            "reference": "56856",
+            "number": 21,
+            "scheduled": "2016-08-20T19:00:00+00:00",
+            "attendance": 60802,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Cloudy Temp: 80 F, Humidity: 89%, Wind:  0 mph",
+            "venue": {
+                "id": "5295c1b7-c85c-49cb-9569-1707c65324e5",
+                "name": "Nissan Stadium",
+                "city": "Nashville",
+                "state": "TN",
+                "country": "USA",
+                "zip": "37213",
+                "address": "One Titans Way",
+                "capacity": 69143,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+                "name": "Tennessee Titans",
+                "alias": "TEN",
+                "game_number": 2
+            },
+            "away": {
+                "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+                "name": "Carolina Panthers",
+                "alias": "CAR",
+                "game_number": 2
+            },
+            "scoring": {
+                "home_points": 16,
+                "away_points": 26,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "a0872196-0ebc-42ef-baa1-8d303ac41fe3",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 10
+                }, {
+                    "period_type": "quarter",
+                    "id": "40d17e8c-ac24-42c5-a34a-1dc364150417",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "43dc21f6-a59f-4bae-b27a-201d69e6c7a0",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 6
+                }, {
+                    "period_type": "quarter",
+                    "id": "c9b5c6a4-50e4-4223-98f9-38364a3afb0f",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 6,
+                    "away_points": 7
+                }]
+            }
+        }, {
+            "id": "7494c7ac-a8d1-44fd-b253-05efc7f422ca",
+            "status": "closed",
+            "reference": "56859",
+            "number": 24,
+            "scheduled": "2016-08-21T01:00:00+00:00",
+            "attendance": 80782,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 71 F, Humidity: 54%, Wind: W 8 mph mph",
+            "venue": {
+                "id": "4de1fcde-7c65-4145-a874-3753bdd584b7",
+                "name": "Los Angeles Memorial Coliseum",
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "USA",
+                "zip": "90037",
+                "address": "3911 South Figueroa Street",
+                "capacity": 93607,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+                "name": "Los Angeles Rams",
+                "alias": "LA",
+                "game_number": 2
+            },
+            "away": {
+                "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+                "name": "Kansas City Chiefs",
+                "alias": "KC",
+                "game_number": 2
+            },
+            "scoring": {
+                "home_points": 21,
+                "away_points": 20,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "74aa354f-79b8-4c5d-a14b-2ae7b2366e9a",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "327d70d5-9d90-489c-a34f-5329eda029ac",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 13
+                }, {
+                    "period_type": "quarter",
+                    "id": "e97a9c0f-72af-4380-ac2c-cab6fdb648d8",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "0b5ebf79-324d-46e4-b3b7-c6e87881f76b",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 7,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "7716f0ff-2c1f-4ad0-983a-8d5567574fb6",
+            "status": "closed",
+            "reference": "56865",
+            "number": 30,
+            "scheduled": "2016-08-19T00:00:00+00:00",
+            "attendance": 74089,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Temp: 83 F, Humidity: 62%, Wind: S 6 mph",
+            "venue": {
+                "id": "5a60dd3a-302c-41c6-ab0f-dd335c1103c2",
+                "name": "Lambeau Field",
+                "city": "Green Bay",
+                "state": "WI",
+                "country": "USA",
+                "zip": "54304",
+                "address": "1265 Lombardi Avenue",
+                "capacity": 80750,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+                "name": "Green Bay Packers",
+                "alias": "GB",
+                "game_number": 3
+            },
+            "away": {
+                "id": "1c1cec48-6352-4556-b789-35304c1a6ae1",
+                "name": "Oakland Raiders",
+                "alias": "OAK",
+                "game_number": 2
+            },
+            "scoring": {
+                "home_points": 20,
+                "away_points": 12,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "464f48a8-b508-4c9e-afe2-87dce0d9bb96",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "1f0b9f6f-31ed-45c1-b4e3-92174919b5cc",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "eaaf1f5a-7ed9-4377-8308-7da0d26cdbdf",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 10,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "af8eb5a7-adaf-42f4-a205-26ba55098c64",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 3,
+                    "away_points": 9
+                }]
+            }
+        }, {
+            "id": "8026f679-75ec-43a5-a56a-8fd951386829",
+            "status": "closed",
+            "reference": "56866",
+            "number": 31,
+            "scheduled": "2016-08-18T23:00:00+00:00",
+            "attendance": 45351,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Partly Cloudy Temp: 84 F, Humidity: 46%, Wind: From W 10 mph",
+            "venue": {
+                "id": "7349a2e6-0ac9-410b-8bd2-ca58c9f7aa34",
+                "name": "Heinz Field",
+                "city": "Pittsburgh",
+                "state": "PA",
+                "country": "USA",
+                "zip": "15212",
+                "address": "100 Art Rooney Avenue",
+                "capacity": 65050,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+                "name": "Pittsburgh Steelers",
+                "alias": "PIT",
+                "game_number": 2
+            },
+            "away": {
+                "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+                "name": "Philadelphia Eagles",
+                "alias": "PHI",
+                "game_number": 2
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 0,
+                "away_points": 17,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "f8adf109-219c-4a2b-9656-fecf7aa83d5d",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "9fd8a0e1-d1b2-4f7a-b67b-da8acd3816d6",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "de480d1e-7b00-4b29-979a-d65c303c320e",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "2420cb0e-afda-454c-accb-4dc05a900ef7",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "866ff734-2e05-4114-b4e1-469588419edc",
+            "status": "closed",
+            "reference": "56867",
+            "number": 32,
+            "scheduled": "2016-08-21T01:00:00+00:00",
+            "attendance": 75422,
+            "utc_offset": -7,
+            "entry_mode": "INGEST",
+            "weather": "Mostly Clear. Gusting ot 14. Temp: 73 F, Humidity: 29%, Wind: E 9 mph",
+            "venue": {
+                "id": "6589e61d-ef1e-4e30-91b5-9acd2072b8a0",
+                "name": "Sports Authority Field at Mile High",
+                "city": "Denver",
+                "state": "CO",
+                "country": "USA",
+                "zip": "80204",
+                "address": "1701 Mile High Stadium Circle",
+                "capacity": 76125,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+                "name": "Denver Broncos",
+                "alias": "DEN",
+                "game_number": 2
+            },
+            "away": {
+                "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+                "name": "San Francisco 49ers",
+                "alias": "SF",
+                "game_number": 2
+            },
+            "scoring": {
+                "home_points": 24,
+                "away_points": 31,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "0171c8e1-7647-49c3-94bb-0bf1f263e7a1",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "56dd62d8-1b53-43e5-8472-2e8e6740de4c",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 3,
+                    "away_points": 17
+                }, {
+                    "period_type": "quarter",
+                    "id": "13034206-00c5-478b-b6f9-80bc7ecb41b6",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "1681b962-24b7-41bb-8baa-dcc8bd2cd080",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 7,
+                    "away_points": 14
+                }]
+            }
+        }, {
+            "id": "d7f40d16-25a3-4ef5-84ea-2f2b54a530c0",
+            "status": "closed",
+            "reference": "56860",
+            "number": 25,
+            "scheduled": "2016-08-20T00:00:00+00:00",
+            "attendance": 82862,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Temp: 72 F, Wind:   mph",
+            "venue": {
+                "id": "1e84213a-ff1f-4c9d-a003-8ee782b25a40",
+                "name": "AT&T Stadium",
+                "city": "Arlington",
+                "state": "TX",
+                "country": "USA",
+                "zip": "76011",
+                "address": "One Legends Way",
+                "capacity": 80000,
+                "surface": "artificial",
+                "roof_type": "retractable_dome"
+            },
+            "home": {
+                "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+                "name": "Dallas Cowboys",
+                "alias": "DAL",
+                "game_number": 2
+            },
+            "away": {
+                "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+                "name": "Miami Dolphins",
+                "alias": "MIA",
+                "game_number": 2
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 41,
+                "away_points": 14,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "fbe26712-d36e-46c7-b5f4-bde7ac276a62",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "674c5a8d-2d20-46fd-b0e8-a3b9074292cf",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 20,
+                    "away_points": 14
+                }, {
+                    "period_type": "quarter",
+                    "id": "beae0f5a-02cf-47f2-9563-6faadf3ca363",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 14,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "24257d7a-f62a-4079-8d28-07d2869fd941",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "f0be2e16-d599-4273-93b3-723d58d6a74b",
+            "status": "closed",
+            "reference": "56858",
+            "number": 23,
+            "scheduled": "2016-08-18T23:30:00+00:00",
+            "attendance": 47340,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Controlled Climate Temp: 68 F, Humidity: 70%, Wind:   mph",
+            "venue": {
+                "id": "6e3bcf22-277d-4c06-b019-62aded51654f",
+                "name": "Ford Field",
+                "city": "Detroit",
+                "state": "MI",
+                "country": "USA",
+                "zip": "48226",
+                "address": "2000 Brush Street",
+                "capacity": 65000,
+                "surface": "artificial",
+                "roof_type": "dome"
+            },
+            "home": {
+                "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+                "name": "Detroit Lions",
+                "alias": "DET",
+                "game_number": 2
+            },
+            "away": {
+                "id": "ad4ae08f-d808-42d5-a1e6-e9bc4e34d123",
+                "name": "Cincinnati Bengals",
+                "alias": "CIN",
+                "game_number": 2
+            },
+            "scoring": {
+                "home_points": 14,
+                "away_points": 30,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "c1ee3613-1197-4de2-8fb6-4ad399d570c7",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 3,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "8104afa2-82db-4e02-9d50-edcc499bbef9",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 3,
+                    "away_points": 13
+                }, {
+                    "period_type": "quarter",
+                    "id": "5f435182-f16d-436f-8023-ef87eb348a7f",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "dcc93225-6f72-4d10-9e3e-bf30cd246e28",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 8,
+                    "away_points": 10
+                }]
+            }
+        }, {
+            "id": "f6fa652c-bf4a-4131-a0b8-a3ecee1f383a",
+            "status": "closed",
+            "reference": "56863",
+            "number": 28,
+            "scheduled": "2016-08-20T20:00:00+00:00",
+            "attendance": 66432,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Chance of Showers Temp: 87 F, Humidity: 50%, Wind: S-SW 5 mph",
+            "venue": {
+                "id": "e9e0828e-37fc-4238-a317-49037577dd55",
+                "name": "New Era Field",
+                "city": "Orchard Park",
+                "state": "NY",
+                "country": "USA",
+                "zip": "14127",
+                "address": "One Bills Drive",
+                "capacity": 73079,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+                "name": "Buffalo Bills",
+                "alias": "BUF",
+                "game_number": 2
+            },
+            "away": {
+                "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+                "name": "New York Giants",
+                "alias": "NYG",
+                "game_number": 2
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 21,
+                "away_points": 0,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "367baf9c-8cba-4472-9cfd-ef9d25485963",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "37e3546c-2d4f-42d3-a804-a02a2f89f105",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 21,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "17fe8278-0dcf-4a56-bf79-2bd43fac132d",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "cafa2164-569b-4fc6-b33d-c359ea724485",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }]
+    }, {
+        "id": "051e133e-75ef-4818-835a-87e84fdc53b2",
+        "sequence": 3,
+        "title": "4",
+        "games": [{
+            "id": "0dd68d13-7135-46dc-a90c-849d47226d51",
+            "status": "closed",
+            "reference": "56871",
+            "number": 38,
+            "scheduled": "2016-08-28T20:25:00+00:00",
+            "attendance": 71515,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Mostly cloudy Temp: 84 F, Humidity: 70%, Wind: NE 13 mph",
+            "venue": {
+                "id": "6a72e5ca-33d0-40af-8e6b-b32a4d3d9346",
+                "name": "NRG Stadium",
+                "city": "Houston",
+                "state": "TX",
+                "country": "USA",
+                "zip": "77054",
+                "address": "One Reliant Park",
+                "capacity": 71054,
+                "surface": "artificial",
+                "roof_type": "retractable_dome"
+            },
+            "home": {
+                "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+                "name": "Houston Texans",
+                "alias": "HOU",
+                "game_number": 3
+            },
+            "away": {
+                "id": "de760528-1dc0-416a-a978-b510d20692ff",
+                "name": "Arizona Cardinals",
+                "alias": "ARI",
+                "game_number": 3
+            },
+            "broadcast": {
+                "network": "FOX"
+            },
+            "scoring": {
+                "home_points": 34,
+                "away_points": 24,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "45cbd3b7-1b93-413a-b0ed-c03a50d88fa3",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 10,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "e7c67a13-168c-45ad-a0b5-4b16ee11f7c0",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 21,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "2ca7a620-c926-4b88-99fd-e93077313fa3",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "8b154735-cdc9-4f9e-896d-7c763f24ef23",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 3,
+                    "away_points": 7
+                }]
+            }
+        }, {
+            "id": "1e73d18d-bf60-457e-9dca-a64e6157b887",
+            "status": "closed",
+            "reference": "56880",
+            "number": 47,
+            "scheduled": "2016-08-27T23:30:00+00:00",
+            "attendance": 78160,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Clear Temp: 84 F, Humidity: 38%, Wind: S 7 mph",
+            "venue": {
+                "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+                "name": "MetLife Stadium",
+                "city": "East Rutherford",
+                "state": "NJ",
+                "country": "USA",
+                "zip": "07073",
+                "address": "One MetLife Stadium Drive",
+                "capacity": 82500,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+                "name": "New York Jets",
+                "alias": "NYJ",
+                "game_number": 3
+            },
+            "away": {
+                "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+                "name": "New York Giants",
+                "alias": "NYG",
+                "game_number": 3
+            },
+            "broadcast": {
+                "network": "CBS"
+            },
+            "scoring": {
+                "home_points": 20,
+                "away_points": 21,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "7acd504f-9061-4b15-b2a9-3c1c6edff396",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "f5d9623a-cec0-437e-ab1b-8799a45569bc",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "bcee49e1-7c80-48f1-a09c-51b7ce0b9450",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "286f525e-9d94-470c-aa05-16652b101af0",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 10,
+                    "away_points": 14
+                }]
+            }
+        }, {
+            "id": "3187c5c3-a82a-449d-9679-e19dff082af9",
+            "status": "closed",
+            "reference": "56874",
+            "number": 41,
+            "scheduled": "2016-08-26T02:00:00+00:00",
+            "attendance": 68505,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 86 F, Humidity: 27%, Wind: NW 12 mph",
+            "venue": {
+                "id": "c6b9e5df-c9e4-434c-b3e6-83928f11cbda",
+                "name": "CenturyLink Field",
+                "city": "Seattle",
+                "state": "WA",
+                "country": "USA",
+                "zip": "98134",
+                "address": "800 Occidental Avenue South",
+                "capacity": 67000,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+                "name": "Seattle Seahawks",
+                "alias": "SEA",
+                "game_number": 3
+            },
+            "away": {
+                "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+                "name": "Dallas Cowboys",
+                "alias": "DAL",
+                "game_number": 3
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 27,
+                "away_points": 17,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "abefcf88-3816-462c-8d95-b909024ec9e9",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "cdd3239c-c565-4aef-b75a-69554b89d6ce",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 10,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "7b59d8a0-6ebc-43c7-b3e7-9566d680971e",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 17,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "1ffe5358-8108-49c2-8ab4-e81bea7cbacc",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 7
+                }]
+            }
+        }, {
+            "id": "34a3ff0e-b7fa-433e-b452-dd1501ed8246",
+            "status": "closed",
+            "reference": "56882",
+            "number": 49,
+            "scheduled": "2016-08-27T00:00:00+00:00",
+            "attendance": 73002,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Partly Cloudy Temp: 85 F, Humidity: 71%, Wind: SE 15 mph",
+            "venue": {
+                "id": "3c85d89a-ec66-4983-acd5-1381d6c8673a",
+                "name": "Mercedes-Benz Superdome",
+                "city": "New Orleans",
+                "state": "LA",
+                "country": "USA",
+                "zip": "70112",
+                "address": "1500 Sugar Bowl Drive",
+                "capacity": 76468,
+                "surface": "artificial",
+                "roof_type": "dome"
+            },
+            "home": {
+                "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+                "name": "New Orleans Saints",
+                "alias": "NO",
+                "game_number": 3
+            },
+            "away": {
+                "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+                "name": "Pittsburgh Steelers",
+                "alias": "PIT",
+                "game_number": 3
+            },
+            "scoring": {
+                "home_points": 14,
+                "away_points": 27,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "def89034-7ebf-48ee-b0f4-427cac72c142",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 14
+                }, {
+                    "period_type": "quarter",
+                    "id": "5f616fb3-7306-4590-86a7-38106438c684",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "1e4aedc9-880a-434c-bab1-0d7a8d348491",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 7,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "34517028-bad6-4127-94e9-84c7b0fea3fa",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 3
+                }]
+            }
+        }, {
+            "id": "40581aef-62fb-4f4c-b0a4-ade75ba2677a",
+            "status": "closed",
+            "reference": "56878",
+            "number": 45,
+            "scheduled": "2016-08-28T01:00:00+00:00",
+            "attendance": 75532,
+            "utc_offset": -7,
+            "entry_mode": "INGEST",
+            "weather": "Mostly CLoudy Temp: 78 F, Humidity: 21%, Wind: S 6 mph",
+            "venue": {
+                "id": "6589e61d-ef1e-4e30-91b5-9acd2072b8a0",
+                "name": "Sports Authority Field at Mile High",
+                "city": "Denver",
+                "state": "CO",
+                "country": "USA",
+                "zip": "80204",
+                "address": "1701 Mile High Stadium Circle",
+                "capacity": 76125,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+                "name": "Denver Broncos",
+                "alias": "DEN",
+                "game_number": 3
+            },
+            "away": {
+                "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+                "name": "Los Angeles Rams",
+                "alias": "LA",
+                "game_number": 3
+            },
+            "scoring": {
+                "home_points": 17,
+                "away_points": 9,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "63cba735-4542-4033-9e10-198fd99a98df",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "12c8c3aa-5a84-427b-ab63-9a6fd1f9d5ab",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 10,
+                    "away_points": 6
+                }, {
+                    "period_type": "quarter",
+                    "id": "20b5564d-5a0d-40b7-aa0e-ffaeeef603fc",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "ab1febb5-5798-4bf3-a538-87004b5fdf51",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "51f3b182-8acb-4f6b-9981-a186cddbd367",
+            "status": "closed",
+            "reference": "56883",
+            "number": 34,
+            "scheduled": "2016-08-26T00:00:00+00:00",
+            "attendance": 45974,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Partly Cloudy Temp: 85 F, Humidity: 60%, Wind: ENE 13 mph",
+            "venue": {
+                "id": "d8a8be1e-6381-4b5a-ac1d-c0ff1be04774",
+                "name": "Camping World Stadium",
+                "city": "Orlando",
+                "state": "FL",
+                "country": "USA",
+                "address": "1 Citrus Bowl Place",
+                "capacity": 61348,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+                "name": "Miami Dolphins",
+                "alias": "MIA",
+                "game_number": 3
+            },
+            "away": {
+                "id": "e6aa13a4-0055-48a9-bc41-be28dc106929",
+                "name": "Atlanta Falcons",
+                "alias": "ATL",
+                "game_number": 3
+            },
+            "broadcast": {
+                "network": "NBC"
+            },
+            "scoring": {
+                "home_points": 17,
+                "away_points": 6,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "7ff0e91f-3ac5-4397-a73a-981db92ae55e",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "0813cedb-7d6f-467b-ad74-9ec2fd8e17ba",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "889b6f9f-78e2-41f1-9f20-1e0cd3a2d96a",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 10,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "f0fe8a3b-f93d-4dde-8150-224102170381",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "5ee47d35-c1c2-41d6-96e1-d732c768e6a9",
+            "status": "closed",
+            "reference": "56879",
+            "number": 46,
+            "scheduled": "2016-08-26T23:30:00+00:00",
+            "attendance": 73816,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Mostly Cloudy Temp: 88 F, Humidity: 51%, Wind: NE 6 mph",
+            "venue": {
+                "id": "39be9ed4-3292-49ac-8699-a381de3a4969",
+                "name": "Bank of America Stadium",
+                "city": "Charlotte",
+                "state": "NC",
+                "country": "USA",
+                "zip": "28202",
+                "address": "800 South Mint Street",
+                "capacity": 73778,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+                "name": "Carolina Panthers",
+                "alias": "CAR",
+                "game_number": 3
+            },
+            "away": {
+                "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+                "name": "New England Patriots",
+                "alias": "NE",
+                "game_number": 3
+            },
+            "scoring": {
+                "home_points": 17,
+                "away_points": 19,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "9d638875-eb8a-407e-afb0-f8fa73497773",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "17d9a9ea-0b7a-42ad-a0db-9871cb62b63f",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 6
+                }, {
+                    "period_type": "quarter",
+                    "id": "a8aa5556-5459-43e6-89e4-62b51da6ffa4",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "783cda56-6737-45cb-9b0f-a3b827c986ec",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 14,
+                    "away_points": 3
+                }]
+            }
+        }, {
+            "id": "62cf9bee-4df0-4fcb-b950-245edf637285",
+            "status": "closed",
+            "reference": "56881",
+            "number": 48,
+            "scheduled": "2016-08-27T23:00:00+00:00",
+            "attendance": 65487,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Partly sunny Temp: 83 F, Humidity: 71%, Wind: SSE 7 mph",
+            "venue": {
+                "id": "6ed18563-53e0-46c2-a91d-12d73a16456d",
+                "name": "Lucas Oil Stadium",
+                "city": "Indianapolis",
+                "state": "IN",
+                "country": "USA",
+                "zip": "46225",
+                "address": "500 South Capitol Avenue",
+                "capacity": 67000,
+                "surface": "artificial",
+                "roof_type": "retractable_dome"
+            },
+            "home": {
+                "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+                "name": "Indianapolis Colts",
+                "alias": "IND",
+                "game_number": 4
+            },
+            "away": {
+                "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+                "name": "Philadelphia Eagles",
+                "alias": "PHI",
+                "game_number": 3
+            },
+            "scoring": {
+                "home_points": 23,
+                "away_points": 33,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "e8497995-c89e-48f6-a37e-11b34ebce464",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 3,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "f8d2edf8-8738-415e-af8c-f126de60e334",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 14
+                }, {
+                    "period_type": "quarter",
+                    "id": "0f911641-fb32-4e21-b3a7-a04798b81f31",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 7,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "b62674cf-3f1a-466e-893e-7957d1db1dd6",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 13,
+                    "away_points": 9
+                }]
+            }
+        }, {
+            "id": "6ae15a46-ac3e-4af9-b5ef-bd90f0518790",
+            "status": "closed",
+            "reference": "56877",
+            "number": 44,
+            "scheduled": "2016-08-27T17:00:00+00:00",
+            "attendance": 61681,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Cloudy with Possible Stray Showers/Thundershowers Temp: 76 F, Humidity: 87%, Wind: SE 12 mph",
+            "venue": {
+                "id": "d7866605-5ac6-4b3a-90e8-760cc5a26b75",
+                "name": "Soldier Field",
+                "city": "Chicago",
+                "state": "IL",
+                "country": "USA",
+                "zip": "60605",
+                "address": "1410 South Museum Campus Drive",
+                "capacity": 61500,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+                "name": "Chicago Bears",
+                "alias": "CHI",
+                "game_number": 3
+            },
+            "away": {
+                "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+                "name": "Kansas City Chiefs",
+                "alias": "KC",
+                "game_number": 3
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 7,
+                "away_points": 23,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "0873b250-ce01-449f-84d4-b85727fe2c9a",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "217d15aa-064b-445a-9b61-805759ec32d5",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 13
+                }, {
+                    "period_type": "quarter",
+                    "id": "74494cb1-07e7-406c-8075-8af42e182e47",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "d47be6d1-15e3-47bc-859e-f9ead249f065",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 7,
+                    "away_points": 3
+                }]
+            }
+        }, {
+            "id": "7615bb73-5ff1-456e-9085-80ad7e151348",
+            "status": "closed",
+            "reference": "56870",
+            "number": 37,
+            "scheduled": "2016-08-28T17:00:00+00:00",
+            "attendance": 66143,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Indoors Temp: 72 F, Wind:   mph",
+            "venue": {
+                "id": "f5ff00d4-1ed8-4918-bf73-13d66d510f98",
+                "name": "U.S. Bank Stadium",
+                "city": "Minneapolis",
+                "state": "MN",
+                "country": "USA",
+                "zip": "55415",
+                "address": "900 S 5th St",
+                "capacity": 66200,
+                "surface": "turf",
+                "roof_type": "dome"
+            },
+            "home": {
+                "id": "33405046-04ee-4058-a950-d606f8c30852",
+                "name": "Minnesota Vikings",
+                "alias": "MIN",
+                "game_number": 3
+            },
+            "away": {
+                "id": "9dbb9060-ba0f-4920-829e-16d4d9246b5d",
+                "name": "San Diego Chargers",
+                "alias": "SD",
+                "game_number": 3
+            },
+            "broadcast": {
+                "network": "FOX"
+            },
+            "scoring": {
+                "home_points": 23,
+                "away_points": 10,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "4defa9dc-5d47-497b-846a-8f06eb7809d8",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 6,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "8e82f8a2-8f20-4365-a34d-916511f5f0a8",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 6,
+                    "away_points": 10
+                }, {
+                    "period_type": "quarter",
+                    "id": "cc16be71-2064-4626-bcac-cff50fbced73",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 8,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "ae63ccca-63da-4b32-8bd3-7c9cffecc3a1",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 3,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "77029b10-47ea-4a53-872d-39887b154d11",
+            "status": "closed",
+            "reference": "56872",
+            "number": 39,
+            "scheduled": "2016-08-29T00:00:00+00:00",
+            "attendance": 59812,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Temp: 85 F, Humidity: 70%, Wind: East 10 mph",
+            "venue": {
+                "id": "4c5c036d-dd3d-4183-b595-71a43a97560f",
+                "name": "EverBank Field",
+                "city": "Jacksonville",
+                "state": "FL",
+                "country": "USA",
+                "zip": "32202",
+                "address": "One EverBank Field Drive",
+                "capacity": 67246,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+                "name": "Jacksonville Jaguars",
+                "alias": "JAC",
+                "game_number": 3
+            },
+            "away": {
+                "id": "ad4ae08f-d808-42d5-a1e6-e9bc4e34d123",
+                "name": "Cincinnati Bengals",
+                "alias": "CIN",
+                "game_number": 3
+            },
+            "broadcast": {
+                "network": "NBC"
+            },
+            "scoring": {
+                "home_points": 26,
+                "away_points": 21,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "4a83094f-5d6e-4ee1-91ea-18d474f35427",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "59b67fb2-303a-4aa2-af8c-f1f3441c00b6",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 3,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "5fb5ac34-11c7-4249-9254-32f0458f5174",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 8,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "b3c9512b-a042-43ac-9659-299d943714a3",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 15,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "782207a6-ee8f-4aca-b8d9-c8d67db82899",
+            "status": "closed",
+            "reference": "56869",
+            "number": 36,
+            "scheduled": "2016-08-28T00:00:00+00:00",
+            "attendance": 53300,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 69 F, Humidity: 62%, Wind: WSW 16 mph",
+            "venue": {
+                "id": "ba1ad00f-9130-462c-93f9-5612a0015117",
+                "name": "Oakland Alameda Coliseum",
+                "city": "Oakland",
+                "state": "CA",
+                "country": "USA",
+                "zip": "94621",
+                "address": "7000 Coliseum Way",
+                "capacity": 53200,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "1c1cec48-6352-4556-b789-35304c1a6ae1",
+                "name": "Oakland Raiders",
+                "alias": "OAK",
+                "game_number": 3
+            },
+            "away": {
+                "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+                "name": "Tennessee Titans",
+                "alias": "TEN",
+                "game_number": 3
+            },
+            "broadcast": {
+                "network": "CBS"
+            },
+            "scoring": {
+                "home_points": 14,
+                "away_points": 27,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "9b339a0a-c1f5-4933-9b92-3b553ffa9c6d",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 10
+                }, {
+                    "period_type": "quarter",
+                    "id": "d841c9fa-2139-4558-aa12-6d5d4184fff6",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 10
+                }, {
+                    "period_type": "quarter",
+                    "id": "10b9cf74-876d-4b52-a1d1-5ef676032577",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "42f2d7a6-62e8-4879-9d69-ac146c7078bd",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "9ffaa2bd-23c6-4c38-9d19-7339cebf8b76",
+            "status": "closed",
+            "reference": "56875",
+            "number": 42,
+            "scheduled": "2016-08-27T23:00:00+00:00",
+            "attendance": 70473,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Partly Cloudy Temp: 89 F, Humidity: 45%, Wind: East 7 mph",
+            "venue": {
+                "id": "d54faae0-0314-484f-8604-9d8dd08e1149",
+                "name": "M&T Bank Stadium",
+                "city": "Baltimore",
+                "state": "MD",
+                "country": "USA",
+                "zip": "21230",
+                "address": "1101 Russell Street",
+                "capacity": 71008,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+                "name": "Baltimore Ravens",
+                "alias": "BAL",
+                "game_number": 3
+            },
+            "away": {
+                "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+                "name": "Detroit Lions",
+                "alias": "DET",
+                "game_number": 3
+            },
+            "scoring": {
+                "home_points": 30,
+                "away_points": 9,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "863f851e-a186-44d6-8eb0-42186e6b0172",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 3,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "291076cd-cbb0-4faa-b135-58018d2e07b2",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 17,
+                    "away_points": 6
+                }, {
+                    "period_type": "quarter",
+                    "id": "18e102ae-33b4-462f-986d-204ea1669f3b",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "5e5d0649-eac6-48a6-8096-628fb345da65",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 7,
+                    "away_points": 3
+                }]
+            }
+        }, {
+            "id": "bb1a8641-2fa3-4ca4-a53e-935870273a6f",
+            "status": "closed",
+            "reference": "56884",
+            "number": 35,
+            "scheduled": "2016-08-27T00:00:00+00:00",
+            "attendance": 46848,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Cloudy Temp: 83 F, Humidity: 82%, Wind: NE 1 mph",
+            "venue": {
+                "id": "6fccc39c-80bc-4c81-83d9-2d5a848c8c09",
+                "name": "Raymond James Stadium",
+                "city": "Tampa",
+                "state": "FL",
+                "country": "USA",
+                "zip": "33607",
+                "address": "4201 North Dale Mabry Highway",
+                "capacity": 65890,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+                "name": "Tampa Bay Buccaneers",
+                "alias": "TB",
+                "game_number": 3
+            },
+            "away": {
+                "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+                "name": "Cleveland Browns",
+                "alias": "CLE",
+                "game_number": 3
+            },
+            "broadcast": {
+                "network": "CBS"
+            },
+            "scoring": {
+                "home_points": 30,
+                "away_points": 13,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "bb58431e-d7e4-4d4f-a999-6dafbade2135",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 17,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "e470e5f3-4364-4375-a153-007ae94e95cf",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 10,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "3837492c-7026-42b5-b930-25df773238cd",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "be052d15-062c-468f-9514-e34d5406e09f",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 3,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "cc6c0036-ed8e-40c0-a004-f23f27a1e706",
+            "status": "closed",
+            "reference": "56873",
+            "number": 40,
+            "scheduled": "2016-08-26T23:30:00+00:00",
+            "attendance": 56126,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 86 F, Humidity: 61%, Wind:  Calm mph",
+            "venue": {
+                "id": "7c11bb2d-4a53-4842-b842-0f1c63ed78e9",
+                "name": "FedExField",
+                "city": "Landover",
+                "state": "MD",
+                "country": "USA",
+                "zip": "20785",
+                "address": "1600 FedEx Way",
+                "capacity": 83000,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+                "name": "Washington Redskins",
+                "alias": "WAS",
+                "game_number": 3
+            },
+            "away": {
+                "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+                "name": "Buffalo Bills",
+                "alias": "BUF",
+                "game_number": 3
+            },
+            "scoring": {
+                "home_points": 21,
+                "away_points": 16,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "74f4298b-7ed8-4c32-9b9b-ae68e0c0168a",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "d72c02f9-c57e-47e5-b5e7-e913969d0a8f",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 21,
+                    "away_points": 6
+                }, {
+                    "period_type": "quarter",
+                    "id": "3cd7425a-b4a8-453a-a5d5-18f0584a4493",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "b270344d-cc16-424c-9e5b-b70f0b8aeeaa",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "eb892efc-e441-4074-bc71-a394b471831d",
+            "status": "closed",
+            "reference": "56876",
+            "number": 43,
+            "scheduled": "2016-08-27T02:00:00+00:00",
+            "attendance": 70178,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 64 F, Humidity: 72%, Wind: SSW 11 mph",
+            "venue": {
+                "id": "24c71dbf-6469-46f1-8165-22005c295c8f",
+                "name": "Levi's Stadium",
+                "city": "Santa Clara",
+                "state": "CA",
+                "country": "USA",
+                "zip": "95054",
+                "address": "4900 Marie P DeBartolo Way",
+                "capacity": 68500,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+                "name": "San Francisco 49ers",
+                "alias": "SF",
+                "game_number": 3
+            },
+            "away": {
+                "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+                "name": "Green Bay Packers",
+                "alias": "GB",
+                "game_number": 4
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 10,
+                "away_points": 21,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "d12da881-efb4-4866-ba8b-f3acd411edba",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "61735e83-6714-4eba-b07e-082bed2cd55c",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "0ecd31d0-73f1-4785-8737-08f851c27d1f",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "77d39bc8-a644-434d-be5c-d80fe10f37a9",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 3,
+                    "away_points": 7
+                }]
+            }
+        }]
+    }, {
+        "id": "acd0b2ac-8d64-4eac-8f34-365b807e996d",
+        "sequence": 4,
+        "title": "5",
+        "games": [{
+            "id": "1c2457b6-be9e-4cb8-8f0a-59d41855acc8",
+            "status": "closed",
+            "reference": "56900",
+            "number": 56,
+            "scheduled": "2016-09-01T23:30:00+00:00",
+            "attendance": 55184,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Mostly Sunny Temp: 74 F, Humidity: 51%, Wind: N 13 mph",
+            "venue": {
+                "id": "b87a1595-d3c8-48ea-8a53-0aab6378a64a",
+                "name": "Paul Brown Stadium",
+                "city": "Cincinnati",
+                "state": "OH",
+                "country": "USA",
+                "zip": "45202",
+                "address": "One Paul Brown Stadium",
+                "capacity": 65535,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "ad4ae08f-d808-42d5-a1e6-e9bc4e34d123",
+                "name": "Cincinnati Bengals",
+                "alias": "CIN",
+                "game_number": 4
+            },
+            "away": {
+                "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+                "name": "Indianapolis Colts",
+                "alias": "IND",
+                "game_number": 5
+            },
+            "scoring": {
+                "home_points": 10,
+                "away_points": 13,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "b9322b0c-1cdd-411c-8854-79465e466d91",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "4f17f86d-441a-4d91-830f-4d176a526cc5",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "ab6992d5-97db-4c05-87da-b83cef233444",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "522243c9-03d6-4976-b294-a05e0f02c807",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 7,
+                    "away_points": 10
+                }]
+            }
+        }, {
+            "id": "3b186719-3353-4de1-97ba-b963f2de3d98",
+            "status": "closed",
+            "reference": "56892",
+            "number": 64,
+            "scheduled": "2016-09-01T23:00:00+00:00",
+            "attendance": 48192,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Mostly Cloudy Temp: 88 F, Humidity: 70%, Wind: S 15 mph",
+            "venue": {
+                "id": "50a5c833-1570-4c38-abc7-7914cf87dbde",
+                "name": "Hard Rock Stadium",
+                "city": "Miami Gardens",
+                "state": "FL",
+                "country": "USA",
+                "zip": "33056",
+                "address": "2269 Northwest 199th Street",
+                "capacity": 76100,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+                "name": "Miami Dolphins",
+                "alias": "MIA",
+                "game_number": 4
+            },
+            "away": {
+                "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+                "name": "Tennessee Titans",
+                "alias": "TEN",
+                "game_number": 4
+            },
+            "scoring": {
+                "home_points": 10,
+                "away_points": 21,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "6af77d18-a30e-4961-9754-cf43f520bf14",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 14
+                }, {
+                    "period_type": "quarter",
+                    "id": "5a2020c6-3049-4af6-b536-740fecf5c2c4",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "81e78465-924c-4abc-b3fd-77feb937c681",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "851f4412-2e89-4dd5-9724-f53982f6a657",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "3c0a58df-c112-4134-b1c2-0240b8e8dfa3",
+            "status": "closed",
+            "reference": "56890",
+            "number": 62,
+            "scheduled": "2016-09-02T02:00:00+00:00",
+            "attendance": 47407,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "Temp: 71 F, Humidity: 71%, Wind: WSW 8 mph",
+            "venue": {
+                "id": "7ca47702-8951-45be-a4f5-3e7d78f8f399",
+                "name": "Qualcomm Stadium",
+                "city": "San Diego",
+                "state": "CA",
+                "country": "USA",
+                "zip": "92108",
+                "address": "9449 Friars Road",
+                "capacity": 70561,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "9dbb9060-ba0f-4920-829e-16d4d9246b5d",
+                "name": "San Diego Chargers",
+                "alias": "SD",
+                "game_number": 4
+            },
+            "away": {
+                "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+                "name": "San Francisco 49ers",
+                "alias": "SF",
+                "game_number": 4
+            },
+            "scoring": {
+                "home_points": 21,
+                "away_points": 31,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "85e3c654-67cc-46d9-a603-0c86ccf10b27",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 6
+                }, {
+                    "period_type": "quarter",
+                    "id": "5b31808e-34f8-4b7b-b8a1-4fcde6767ade",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "024d2772-b4ee-4ee7-92a6-613943514b6c",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 14,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "f5d7c617-2fd3-4857-91d7-344fa910d7e3",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 22
+                }]
+            }
+        }, {
+            "id": "3d58fd9c-d8ef-4d98-ac0d-b1b4b4e7de55",
+            "status": "closed",
+            "reference": "56894",
+            "number": 50,
+            "scheduled": "2016-09-02T00:00:00+00:00",
+            "attendance": 73001,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Partly Cloudy Temp: 92 F, Humidity: 55%, Wind: NE 2 mph",
+            "venue": {
+                "id": "3c85d89a-ec66-4983-acd5-1381d6c8673a",
+                "name": "Mercedes-Benz Superdome",
+                "city": "New Orleans",
+                "state": "LA",
+                "country": "USA",
+                "zip": "70112",
+                "address": "1500 Sugar Bowl Drive",
+                "capacity": 76468,
+                "surface": "artificial",
+                "roof_type": "dome"
+            },
+            "home": {
+                "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+                "name": "New Orleans Saints",
+                "alias": "NO",
+                "game_number": 4
+            },
+            "away": {
+                "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+                "name": "Baltimore Ravens",
+                "alias": "BAL",
+                "game_number": 4
+            },
+            "scoring": {
+                "home_points": 14,
+                "away_points": 23,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "ce0490a4-afe3-4f20-99ad-9d29cc290020",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 6,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "f543e66f-3386-4d21-9821-7ff9219e32ef",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 16
+                }, {
+                    "period_type": "quarter",
+                    "id": "7a0e8f48-4ea9-4470-a2b7-3ddcffa5ee59",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "c90c50d0-c9cd-4b5f-a991-442159d7e2c4",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 8,
+                    "away_points": 7
+                }]
+            }
+        }, {
+            "id": "5bef1a4a-a594-4fd8-93e8-e063ab68e970",
+            "status": "closed",
+            "reference": "56899",
+            "number": 55,
+            "scheduled": "2016-09-02T00:00:00+00:00",
+            "attendance": 81016,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Temp:  F, Wind:   mph",
+            "venue": {
+                "id": "1e84213a-ff1f-4c9d-a003-8ee782b25a40",
+                "name": "AT&T Stadium",
+                "city": "Arlington",
+                "state": "TX",
+                "country": "USA",
+                "zip": "76011",
+                "address": "One Legends Way",
+                "capacity": 80000,
+                "surface": "artificial",
+                "roof_type": "retractable_dome"
+            },
+            "home": {
+                "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+                "name": "Dallas Cowboys",
+                "alias": "DAL",
+                "game_number": 4
+            },
+            "away": {
+                "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+                "name": "Houston Texans",
+                "alias": "HOU",
+                "game_number": 4
+            },
+            "scoring": {
+                "home_points": 17,
+                "away_points": 28,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "d948ca2c-d45e-47d6-b2bc-38670e34b4ee",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "f89f5b39-a20c-42e7-a5b4-c82d64a8ecb6",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 3,
+                    "away_points": 14
+                }, {
+                    "period_type": "quarter",
+                    "id": "540bdcdb-9456-45dc-ba8e-d10f38ccc45c",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 7,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "8ae4cd21-ab49-4c59-8d8e-0f7ac1763a48",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 7
+                }]
+            }
+        }, {
+            "id": "64834645-9d66-4ff3-8e3a-0f65f01865c0",
+            "status": "closed",
+            "reference": "56887",
+            "number": 59,
+            "scheduled": "2016-09-01T23:00:00+00:00",
+            "attendance": 73880,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Cloudy Temp: 76 F, Humidity: 76%, Wind: Calm  mph",
+            "venue": {
+                "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+                "name": "MetLife Stadium",
+                "city": "East Rutherford",
+                "state": "NJ",
+                "country": "USA",
+                "zip": "07073",
+                "address": "One MetLife Stadium Drive",
+                "capacity": 82500,
+                "surface": "artificial",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+                "name": "New York Giants",
+                "alias": "NYG",
+                "game_number": 4
+            },
+            "away": {
+                "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+                "name": "New England Patriots",
+                "alias": "NE",
+                "game_number": 4
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 17,
+                "away_points": 9,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "c9d74fe1-c3b7-4cbb-82db-0acd3ae8271e",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 6
+                }, {
+                    "period_type": "quarter",
+                    "id": "cc807555-2aa1-4bfb-8627-a5643211dcff",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 3,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "18eff2e9-a671-4547-aae4-28f55eb5c61e",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "77a12fc1-f12c-4103-901a-8b0eb0fc5053",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 7,
+                    "away_points": 3
+                }]
+            }
+        }, {
+            "id": "6f0f9607-5291-434d-9371-51a8a700b266",
+            "status": "closed",
+            "reference": "56896",
+            "number": 52,
+            "scheduled": "2016-09-02T00:00:00+00:00",
+            "attendance": 63393,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 73 F, Humidity: 55%, Wind: North 13 mph",
+            "venue": {
+                "id": "90c38d91-3774-4f5d-82ca-1c806828219f",
+                "name": "FirstEnergy Stadium",
+                "city": "Cleveland",
+                "state": "OH",
+                "country": "USA",
+                "zip": "44114",
+                "address": "100 Alfred Lerner Way",
+                "capacity": 71516,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+                "name": "Cleveland Browns",
+                "alias": "CLE",
+                "game_number": 4
+            },
+            "away": {
+                "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+                "name": "Chicago Bears",
+                "alias": "CHI",
+                "game_number": 4
+            },
+            "scoring": {
+                "home_points": 7,
+                "away_points": 21,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "d73993fc-48b9-4ad0-bda3-67823e2ecc4e",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "a1bd0179-96f6-4032-9fee-b1cdf380b654",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 9
+                }, {
+                    "period_type": "quarter",
+                    "id": "7234a9d4-def0-4e48-8b7c-1c81974ba7d5",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "1480042e-55a9-4bf8-a021-cec95291f986",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 6
+                }]
+            }
+        }, {
+            "id": "6f8c0f15-bbb7-4c4f-b191-35841d8aa68a",
+            "status": "closed",
+            "reference": "56886",
+            "number": 58,
+            "scheduled": "2016-09-02T00:00:00+00:00",
+            "attendance": 66262,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Indoors Temp:  F, Wind:   mph",
+            "venue": {
+                "id": "f5ff00d4-1ed8-4918-bf73-13d66d510f98",
+                "name": "U.S. Bank Stadium",
+                "city": "Minneapolis",
+                "state": "MN",
+                "country": "USA",
+                "zip": "55415",
+                "address": "900 S 5th St",
+                "capacity": 66200,
+                "surface": "turf",
+                "roof_type": "dome"
+            },
+            "home": {
+                "id": "33405046-04ee-4058-a950-d606f8c30852",
+                "name": "Minnesota Vikings",
+                "alias": "MIN",
+                "game_number": 4
+            },
+            "away": {
+                "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+                "name": "Los Angeles Rams",
+                "alias": "LA",
+                "game_number": 4
+            },
+            "scoring": {
+                "home_points": 27,
+                "away_points": 25,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "0772bcee-954f-48a9-ae3b-f7424a440572",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "afe9af10-0880-46b9-b2de-2324ff4aa2ee",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 13,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "9af24478-8b85-4118-b994-8878ed456f86",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 7,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "93ddba1a-994b-499f-8eed-f882661ef9ef",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 7,
+                    "away_points": 15
+                }]
+            }
+        }, {
+            "id": "770c5572-36d7-4346-874f-0a1875259843",
+            "status": "closed",
+            "reference": "56889",
+            "number": 61,
+            "scheduled": "2016-09-01T23:30:00+00:00",
+            "attendance": 73274,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Cloudy Temp: 73 F, Humidity: 92%, Wind: NE 7 mph",
+            "venue": {
+                "id": "39be9ed4-3292-49ac-8699-a381de3a4969",
+                "name": "Bank of America Stadium",
+                "city": "Charlotte",
+                "state": "NC",
+                "country": "USA",
+                "zip": "28202",
+                "address": "800 South Mint Street",
+                "capacity": 73778,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+                "name": "Carolina Panthers",
+                "alias": "CAR",
+                "game_number": 4
+            },
+            "away": {
+                "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+                "name": "Pittsburgh Steelers",
+                "alias": "PIT",
+                "game_number": 4
+            },
+            "scoring": {
+                "home_points": 18,
+                "away_points": 6,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "b9a42bda-47d4-47e1-9ebf-525008c92c1a",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 3,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "d5430568-16e1-4853-b757-64005d0b151e",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 9,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "f753a3f8-38ae-41e8-b438-a8fd9e6440bc",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "4b78f292-75e2-4fbb-af42-568081c022f7",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 3,
+                    "away_points": 6
+                }]
+            }
+        }, {
+            "id": "8629cac8-24fc-40d6-8bc4-ae4e3056ae14",
+            "status": "closed",
+            "reference": "56891",
+            "number": 63,
+            "scheduled": "2016-09-02T02:00:00+00:00",
+            "attendance": 53473,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "Party Cloudy Temp: 63 F, Humidity: 71%, Wind: WSW 14 mph",
+            "venue": {
+                "id": "ba1ad00f-9130-462c-93f9-5612a0015117",
+                "name": "Oakland Alameda Coliseum",
+                "city": "Oakland",
+                "state": "CA",
+                "country": "USA",
+                "zip": "94621",
+                "address": "7000 Coliseum Way",
+                "capacity": 53200,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "1c1cec48-6352-4556-b789-35304c1a6ae1",
+                "name": "Oakland Raiders",
+                "alias": "OAK",
+                "game_number": 4
+            },
+            "away": {
+                "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+                "name": "Seattle Seahawks",
+                "alias": "SEA",
+                "game_number": 4
+            },
+            "broadcast": {
+                "network": "NFL Network",
+                "satellite": "212"
+            },
+            "scoring": {
+                "home_points": 21,
+                "away_points": 23,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "1570f04f-dc73-4ee5-9912-f3420ae05816",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "e9be6706-e080-48f6-b486-668fae6a6f4c",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 2,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "68ffe470-a344-408d-84e2-32d221e21eef",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "cee5359d-9450-4dc6-b5e3-a08404a0ca81",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 16,
+                    "away_points": 20
+                }]
+            }
+        }, {
+            "id": "8fd94797-d3da-43a7-a3b6-f65ad07a79a1",
+            "status": "closed",
+            "reference": "56895",
+            "number": 51,
+            "scheduled": "2016-09-01T23:30:00+00:00",
+            "attendance": 41076,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Controlled Climate Temp: 68 F, Humidity: 70%, Wind:   mph",
+            "venue": {
+                "id": "6e3bcf22-277d-4c06-b019-62aded51654f",
+                "name": "Ford Field",
+                "city": "Detroit",
+                "state": "MI",
+                "country": "USA",
+                "zip": "48226",
+                "address": "2000 Brush Street",
+                "capacity": 65000,
+                "surface": "artificial",
+                "roof_type": "dome"
+            },
+            "home": {
+                "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+                "name": "Detroit Lions",
+                "alias": "DET",
+                "game_number": 4
+            },
+            "away": {
+                "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+                "name": "Buffalo Bills",
+                "alias": "BUF",
+                "game_number": 4
+            },
+            "scoring": {
+                "home_points": 31,
+                "away_points": 0,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "9a1acddf-ea75-4a0c-a897-19369d231e33",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 10,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "3200bb63-7e21-4b09-b6c8-1ee7b78de603",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "0269db6a-edee-451d-b7cd-da1bf6e75aca",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "5a1e1c01-8e62-45b6-9bf8-41766c32b221",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 7,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "90f358e1-27fa-4e12-a0e4-5031fd6ec50f",
+            "status": "closed",
+            "reference": "56888",
+            "number": 60,
+            "scheduled": "2016-09-01T23:00:00+00:00",
+            "attendance": 69596,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Cloudy Temp: 79 F, Humidity: 65%, Wind: N 10 mph",
+            "venue": {
+                "id": "4fa8c29c-6626-464c-8540-314ed7535e1b",
+                "name": "Lincoln Financial Field",
+                "city": "Philadelphia",
+                "state": "PA",
+                "country": "USA",
+                "zip": "19148",
+                "address": "1020 Pattison Avenue",
+                "capacity": 68532,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+                "name": "Philadelphia Eagles",
+                "alias": "PHI",
+                "game_number": 4
+            },
+            "away": {
+                "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+                "name": "New York Jets",
+                "alias": "NYJ",
+                "game_number": 4
+            },
+            "broadcast": {
+                "network": "CBS"
+            },
+            "scoring": {
+                "home_points": 14,
+                "away_points": 6,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "a442a30d-e3b0-4730-ad06-68116fbe940e",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 6
+                }, {
+                    "period_type": "quarter",
+                    "id": "d57aa002-ced6-4b28-8ec9-0ef88ba523fd",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "7d5acad6-9b48-4e24-8c8a-e831b6a46c0f",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 7,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "cb8276a3-21a9-478e-a700-89e5d954ce68",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "9ca61d13-1cad-4de4-a151-4f11b31ec1bc",
+            "status": "closed",
+            "reference": "56893",
+            "number": 65,
+            "scheduled": "2016-09-01T00:00:00+00:00",
+            "attendance": 42996,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Rain Temp: 75 F, Humidity: 92%, Wind: SE 6 mph",
+            "venue": {
+                "id": "6fccc39c-80bc-4c81-83d9-2d5a848c8c09",
+                "name": "Raymond James Stadium",
+                "city": "Tampa",
+                "state": "FL",
+                "country": "USA",
+                "zip": "33607",
+                "address": "4201 North Dale Mabry Highway",
+                "capacity": 65890,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+                "name": "Tampa Bay Buccaneers",
+                "alias": "TB",
+                "game_number": 4
+            },
+            "away": {
+                "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+                "name": "Washington Redskins",
+                "alias": "WAS",
+                "game_number": 4
+            },
+            "scoring": {
+                "home_points": 13,
+                "away_points": 20,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "6da5cb28-641e-4d39-9bc0-f484f6ff308a",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 3
+                }, {
+                    "period_type": "quarter",
+                    "id": "21f2ac59-4a53-4d1f-9557-196a153eac17",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 0,
+                    "away_points": 10
+                }, {
+                    "period_type": "quarter",
+                    "id": "b1f8e088-fbe4-43d1-9f05-666f5bb970d1",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "6bafe4d6-91a8-4d9e-aa2e-15344a01cd7c",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 10,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "b1f91625-a794-44e3-bc18-c58f7fa7fe77",
+            "status": "closed",
+            "reference": "56885",
+            "number": 57,
+            "scheduled": "2016-09-01T23:00:00+00:00",
+            "attendance": 67385,
+            "utc_offset": -5,
+            "entry_mode": "INGEST",
+            "weather": "Temp:  F, Wind:   mph",
+            "venue": {
+                "id": "216de6bf-bce0-409a-a9e7-90db8df1f7b9",
+                "name": "Georgia Dome",
+                "city": "Atlanta",
+                "state": "GA",
+                "country": "USA",
+                "zip": "30313",
+                "address": "One Georgia Dome Drive Northwest",
+                "capacity": 74228,
+                "surface": "artificial",
+                "roof_type": "dome"
+            },
+            "home": {
+                "id": "e6aa13a4-0055-48a9-bc41-be28dc106929",
+                "name": "Atlanta Falcons",
+                "alias": "ATL",
+                "game_number": 4
+            },
+            "away": {
+                "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+                "name": "Jacksonville Jaguars",
+                "alias": "JAC",
+                "game_number": 4
+            },
+            "scoring": {
+                "home_points": 17,
+                "away_points": 15,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "60c9cfb1-69f7-49b0-827f-d46cbbd2cc3b",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "c59e1397-595e-4aa1-860c-a61736902a55",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 17,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "47cfd414-7e96-4045-bc95-96ec98c60700",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "2f04cbc0-2243-4f7c-88df-ac16ac0c63f9",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 8
+                }]
+            }
+        }, {
+            "id": "dd22432f-b550-4e48-b162-c7bd0973773b",
+            "status": "closed",
+            "reference": "56898",
+            "number": 54,
+            "scheduled": "2016-09-02T00:00:00+00:00",
+            "attendance": 70155,
+            "utc_offset": -6,
+            "entry_mode": "INGEST",
+            "weather": "Sunny Temp: 77 F, Humidity: 48%, Wind: Northeast 9 mph",
+            "venue": {
+                "id": "2ec4c411-dac2-403d-b091-6b6aa4a0a914",
+                "name": "Arrowhead Stadium",
+                "city": "Kansas City",
+                "state": "MO",
+                "country": "USA",
+                "zip": "64129",
+                "address": "One Arrowhead Drive",
+                "capacity": 79451,
+                "surface": "turf",
+                "roof_type": "outdoor"
+            },
+            "home": {
+                "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+                "name": "Kansas City Chiefs",
+                "alias": "KC",
+                "game_number": 4
+            },
+            "away": {
+                "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+                "name": "Green Bay Packers",
+                "alias": "GB",
+                "game_number": 5
+            },
+            "scoring": {
+                "home_points": 17,
+                "away_points": 7,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "e7671c84-b267-47fb-85bb-32375434d43a",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 0,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "0ca0d2fe-8384-4490-835a-475c90b59d51",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 17,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "2ef63476-30c7-40e6-b90f-dab8e4a05ac1",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 0,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "f6caac21-e6d0-4497-b318-fcfcc49d1822",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 0,
+                    "away_points": 0
+                }]
+            }
+        }, {
+            "id": "f4c771f3-b0c4-4c1a-b28d-9432d7b3fdee",
+            "status": "closed",
+            "reference": "56897",
+            "number": 53,
+            "scheduled": "2016-09-02T01:30:00+00:00",
+            "attendance": 64551,
+            "utc_offset": -8,
+            "entry_mode": "INGEST",
+            "weather": "Indoor Temp:  F, Wind:   mph",
+            "venue": {
+                "id": "f8e4d2ab-53f9-4e9f-8c4a-9bc278094a84",
+                "name": "University of Phoenix Stadium",
+                "city": "Glendale",
+                "state": "AZ",
+                "country": "USA",
+                "zip": "85305",
+                "address": "One Cardinals Drive",
+                "capacity": 63400,
+                "surface": "turf",
+                "roof_type": "retractable_dome"
+            },
+            "home": {
+                "id": "de760528-1dc0-416a-a978-b510d20692ff",
+                "name": "Arizona Cardinals",
+                "alias": "ARI",
+                "game_number": 4
+            },
+            "away": {
+                "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+                "name": "Denver Broncos",
+                "alias": "DEN",
+                "game_number": 4
+            },
+            "scoring": {
+                "home_points": 38,
+                "away_points": 17,
+                "periods": [{
+                    "period_type": "quarter",
+                    "id": "4d0599d5-8785-42e1-9735-a547c493e20a",
+                    "number": 1,
+                    "sequence": 1,
+                    "home_points": 7,
+                    "away_points": 10
+                }, {
+                    "period_type": "quarter",
+                    "id": "8e195656-ca54-4e15-a8a6-432642e76eaa",
+                    "number": 2,
+                    "sequence": 2,
+                    "home_points": 13,
+                    "away_points": 0
+                }, {
+                    "period_type": "quarter",
+                    "id": "b9494857-f3fe-4f3f-b491-925424ca5710",
+                    "number": 3,
+                    "sequence": 3,
+                    "home_points": 3,
+                    "away_points": 7
+                }, {
+                    "period_type": "quarter",
+                    "id": "b8b8700f-1d0a-4134-9db1-f5d899359dfd",
+                    "number": 4,
+                    "sequence": 4,
+                    "home_points": 15,
+                    "away_points": 0
+                }]
+            }
+        }]
+    }],
+    "_comment": "Generation started @ 2017-11-02 08:28:52 +0000 ended @ 2017-11-02 08:28:52 +0000"
+}
